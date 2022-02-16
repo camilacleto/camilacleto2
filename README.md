@@ -1,16 +1,7 @@
-camilacleto2
+### Ola! Sou a Camila Cleto 2 👋
 
-<!--
-**camilacleto2**
+👀 Eu estudo inicialmente dart 
+🌱 Procuro cursos na area de TI
+💞️ Atualmente não trabalho na area, mas quero uma oportunidade.
+ 
 
-Here are some ideas to get yow starled:
-
-👋 Hi, **camilacleto**
-👀 I'm interested in...
-🌱 I'm currently learning...
-💞️ I'm looking to collaborate on...
- 😀I'm looking for help with..
- 💡Ask me about..
- 📫 How to reach me...
-  ⚡Fun fact...
--->
