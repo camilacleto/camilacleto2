@@ -1,4 +1,4 @@
-### Ola! Sou a Camila Cleto 2 👋
+### Ola! Sou a Camila Cleto  👋
 
 👀 Eu estudo inicialmente dart 
 🌱 Procuro cursos na area de TI
