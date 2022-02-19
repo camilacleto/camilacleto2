@@ -1,4 +1,3 @@
-https://github.com/camilacleto/camilacleto2.git
 ### Ola! Sou a Camila Cleto  👋
 
 👀 Eu estudo inicialmente dart 
